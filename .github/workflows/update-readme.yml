@@ -1,0 +1,49 @@
+name: Update README
+
+# Refreshes the automatic sections of README.md (citations, publication and
+# talk counts, first-author papers, recent talks, latest videos and articles)
+# from the data behind jovian-explorer.github.io, and commits only when
+# something changed.
+
+on:
+  schedule:
+    - cron: "41 5 1 * *"  # 1st of each month, after the website's monthly feed update
+    - cron: "41 6 * * 1"  # every Monday, to pick up edits to the website
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - tools/update_readme.mjs
+      - .github/workflows/update-readme.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: "22"
+
+      - name: Rebuild automatic sections
+        run: node tools/update_readme.mjs
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet README.md; then
+            echo "README.md unchanged"
+            exit 0
+          fi
+          git config user.name "jovian_explorer"
+          git config user.email "keshavaggarwal2310@gmail.com"
+          git add README.md
+          git commit -m "Update README from website data"
+          git push
