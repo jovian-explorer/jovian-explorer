@@ -79,7 +79,8 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
       <h3><a href="https://github.com/jovian-explorer/VEDA">VEDA</a></h3>
       <img alt="Public v0.1.0" src="https://img.shields.io/badge/public-v0.1.0-2c5e50?style=flat-square"><br><br>
       Multi-mission planetary science laboratory: finds, downloads, processes and compares observations from NASA, ESA, JAXA and ISRO missions across the planets.<br><br>
-      <sub>Python · Windows, macOS, Linux</sub>
+      <sub>Python · Windows, macOS, Linux</sub><br>
+      <sub><b>DOI</b> <a href="https://doi.org/10.5281/zenodo.23215291">10.5281/zenodo.23215291</a></sub>
     </td>
     <td width="33%" valign="top">
       <h3>COSMIC2 Explorer</h3>
