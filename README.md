@@ -78,21 +78,21 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
     <td width="33%" valign="top">
       <h3><a href="https://github.com/jovian-explorer/VEDA">VEDA</a></h3>
       <img alt="Public v0.2.0" src="https://img.shields.io/badge/public-v0.2.0-2c5e50?style=flat-square"><br><br>
-      Multi-mission planetary science laboratory: finds, downloads, processes and compares observations from NASA, ESA, JAXA and ISRO missions across the planets.<br><br>
+      Desktop laboratory for planetary atmosphere and ionosphere data: finds the products of NASA, ESA, JAXA and ISRO missions for a planet or moon and a date range, plots them, derives physical parameters, compares observations and computes the observation geometry with SPICE.<br><br>
       <sub>Python · MIT · Windows, macOS, Linux</sub><br>
       <sub><b>DOI</b> <a href="https://doi.org/10.5281/zenodo.23215291">10.5281/zenodo.23215291</a></sub>
     </td>
     <td width="33%" valign="top">
       <h3><a href="https://github.com/jovian-explorer/COSMIC2-Explorer">COSMIC-2 Explorer</a></h3>
       <img alt="Public v0.1.0" src="https://img.shields.io/badge/public-v0.1.0-2c5e50?style=flat-square"><br><br>
-      Desktop environment for COSMIC-2 GNSS radio-occultation profiles: retrieval, tropopause and ionosphere diagnostics, and comparison with weather models, radiosondes and other missions. Works offline.<br><br>
+      Desktop app for the COSMIC-2 radio occultation profiles published by UCAR CDAAC: finds, downloads, plots and compares them, computes tropopause, boundary-layer and ionosphere diagnostics, and compares them with weather models, radiosondes and other missions. Works offline once the data are downloaded.<br><br>
       <sub>Python · MIT · Windows, macOS, Linux</sub><br>
       <sub><b>DOI</b> <a href="https://doi.org/10.5281/zenodo.23329841">10.5281/zenodo.23329841</a></sub>
     </td>
     <td width="33%" valign="top">
       <h3><a href="https://github.com/jovian-explorer/HELIOS-L1">HELIOS-L1</a></h3>
       <img alt="Public v0.1.0" src="https://img.shields.io/badge/public-v0.1.0-2c5e50?style=flat-square"><br><br>
-      Space-weather suite for the Sun–Earth L1 fleet (DSCOVR, ACE, Aditya-L1, WIND, SOHO): solar-wind coupling, magnetopause and storm models, CME arrival estimates.<br><br>
+      Desktop app for space weather: live solar wind from NOAA's real-time L1 stream and archived NASA, NOAA and GFZ data (WIND, ACE, OMNI since 1963), with published models for storms, the aurora, CME arrival and event analysis.<br><br>
       <sub>Python · MIT · Windows, macOS, Linux</sub><br>
       <sub><b>DOI</b> <a href="https://doi.org/10.5281/zenodo.23322367">10.5281/zenodo.23322367</a></sub>
     </td>
