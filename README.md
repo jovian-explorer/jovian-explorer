@@ -83,16 +83,18 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
       <sub><b>DOI</b> <a href="https://doi.org/10.5281/zenodo.23215291">10.5281/zenodo.23215291</a></sub>
     </td>
     <td width="33%" valign="top">
-      <h3>COSMIC2 Explorer</h3>
-      <img alt="In development" src="https://img.shields.io/badge/in_development-9a4c17?style=flat-square"><br><br>
-      Desktop environment for COSMIC-2 GNSS radio-occultation profiles: retrieval, tropopause and ionosphere diagnostics, and comparison with other planetary atmospheres. Works offline.<br><br>
-      <sub>Python · Windows, macOS, Linux</sub>
+      <h3><a href="https://github.com/jovian-explorer/COSMIC2-Explorer">COSMIC2 Explorer</a></h3>
+      <img alt="Public pre-release" src="https://img.shields.io/badge/public-pre--release-2c5e50?style=flat-square"><br><br>
+      Desktop environment for COSMIC-2 GNSS radio-occultation profiles: retrieval, tropopause and ionosphere diagnostics, and comparison with weather models, radiosondes and other missions. Works offline.<br><br>
+      <sub>Python · Windows, macOS, Linux</sub><br>
+      <sub><b>DOI</b> pending</sub>
     </td>
     <td width="33%" valign="top">
-      <h3>HELIOS-L1</h3>
-      <img alt="In development" src="https://img.shields.io/badge/in_development-9a4c17?style=flat-square"><br><br>
+      <h3><a href="https://github.com/jovian-explorer/HELIOS-L1">HELIOS-L1</a></h3>
+      <img alt="Public pre-release v0.1.0" src="https://img.shields.io/badge/pre--release-v0.1.0-2c5e50?style=flat-square"><br><br>
       Space-weather suite for the Sun–Earth L1 fleet (DSCOVR, ACE, Aditya-L1, WIND, SOHO): solar-wind coupling, magnetopause and storm models, CME arrival estimates.<br><br>
-      <sub>Python · Windows, macOS, Linux</sub>
+      <sub>Python · Windows, macOS, Linux</sub><br>
+      <sub><b>DOI</b> <a href="https://doi.org/10.5281/zenodo.23322367">10.5281/zenodo.23322367</a></sub>
     </td>
   </tr>
 </table>
