@@ -79,21 +79,21 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
       <h3><a href="https://github.com/jovian-explorer/VEDA">VEDA</a></h3>
       <img alt="Public v0.2.0" src="https://img.shields.io/badge/public-v0.2.0-2c5e50?style=flat-square"><br><br>
       Multi-mission planetary science laboratory: finds, downloads, processes and compares observations from NASA, ESA, JAXA and ISRO missions across the planets.<br><br>
-      <sub>Python · Windows, macOS, Linux</sub><br>
+      <sub>Python · MIT · Windows, macOS, Linux</sub><br>
       <sub><b>DOI</b> <a href="https://doi.org/10.5281/zenodo.23215291">10.5281/zenodo.23215291</a></sub>
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://github.com/jovian-explorer/COSMIC2-Explorer">COSMIC2 Explorer</a></h3>
+      <h3><a href="https://github.com/jovian-explorer/COSMIC2-Explorer">COSMIC-2 Explorer</a></h3>
       <img alt="Public v0.1.0" src="https://img.shields.io/badge/public-v0.1.0-2c5e50?style=flat-square"><br><br>
       Desktop environment for COSMIC-2 GNSS radio-occultation profiles: retrieval, tropopause and ionosphere diagnostics, and comparison with weather models, radiosondes and other missions. Works offline.<br><br>
-      <sub>Python · Windows, macOS, Linux</sub><br>
+      <sub>Python · MIT · Windows, macOS, Linux</sub><br>
       <sub><b>DOI</b> <a href="https://doi.org/10.5281/zenodo.23329841">10.5281/zenodo.23329841</a></sub>
     </td>
     <td width="33%" valign="top">
       <h3><a href="https://github.com/jovian-explorer/HELIOS-L1">HELIOS-L1</a></h3>
       <img alt="Public v0.1.0" src="https://img.shields.io/badge/public-v0.1.0-2c5e50?style=flat-square"><br><br>
       Space-weather suite for the Sun–Earth L1 fleet (DSCOVR, ACE, Aditya-L1, WIND, SOHO): solar-wind coupling, magnetopause and storm models, CME arrival estimates.<br><br>
-      <sub>Python · Windows, macOS, Linux</sub><br>
+      <sub>Python · MIT · Windows, macOS, Linux</sub><br>
       <sub><b>DOI</b> <a href="https://doi.org/10.5281/zenodo.23322367">10.5281/zenodo.23322367</a></sub>
     </td>
   </tr>
