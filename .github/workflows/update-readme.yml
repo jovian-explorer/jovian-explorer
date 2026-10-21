@@ -1,7 +1,8 @@
 name: Update README
 
 # Refreshes the automatic sections of README.md (citations, publication and
-# talk counts, first-author papers, recent talks, latest videos and articles)
+# talk counts, first-author papers, paper presentations, recent talks, latest
+# videos and articles)
 # from the data behind jovian-explorer.github.io, and commits only when
 # something changed.
 

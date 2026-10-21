@@ -133,7 +133,17 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
 
 ➡️ Full list with search and filters: **[jovian-explorer.github.io/publications](https://jovian-explorer.github.io/publications.html)**
 
-## Recent talks and posters
+## Talks and presentations
+
+Recorded presentations of my papers, with the paper and the conference talk on the same work. All of them are in the [My Research](https://www.youtube.com/playlist?list=PLGZDzv6-DDT4) playlist and on the [research page](https://jovian-explorer.github.io/research.html#talks-presentations).
+
+<!-- auto:presentations -->
+- 📺 [A study on the contribution of the interplanetary medium in radio occultation experiments](https://www.youtube.com/watch?v=Ex9r_Qzf1Dc) · paper: [Icarus 2026](https://doi.org/10.1016/j.icarus.2026.117291)
+- 📺 [Plasma Turbulence in Lunar Environment During Magnetotail Passage: Observations from Chandrayaan-2](https://www.youtube.com/watch?v=0qbrOB-qnnA) · paper: [JGR: Planets 2026](https://doi.org/10.1029/2026JE009957)
+- 📺 [A turbulence index independent framework for deriving solar wind speed and coronal electron density](https://www.youtube.com/watch?v=BUyCingJDiM) · paper: [MNRAS 2026](https://doi.org/10.1093/mnras/stag554) · talk at IPSC 2026 (Mar 2026)
+<!-- /auto:presentations -->
+
+**Recent talks and posters**
 
 <!-- auto:talks -->
 | When | Event | Where |
@@ -146,17 +156,7 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
 | Sep 2025 | 🖼️ ASI Symposium 003, Astronomical Society of India | JECRC University, Jaipur |
 <!-- /auto:talks -->
 
-<sub>🎤 talk · 🖼️ poster · all of them on the [talks page](https://jovian-explorer.github.io/talks.html)</sub>
-
-## Latest videos and writing
-
-<!-- auto:latest -->
-| 📺 Latest videos | ✍️ Latest articles |
-|:--|:--|
-| [Plasma Turbulence in Lunar Environment During Magnetotail Passage: Observations from Chandrayaan-2](https://www.youtube.com/watch?v=0qbrOB-qnnA) <sub>Sep 2026</sub> | [Is it Life, or is it Volcanoes?](https://jovian-explorer.medium.com/is-it-life-or-is-it-volcanoes-315a89fd4154) <sub>Oct 2023</sub> |
-| [A study on the contribution of the interplanetary medium in radio occultation experiments](https://www.youtube.com/watch?v=Ex9r_Qzf1Dc) <sub>Sep 2026</sub> | [India’s Lunar Triumphs and Solar Aspirations](https://jovian-explorer.medium.com/indias-lunar-triumphs-and-solar-aspirations-cf4ba64d957d) <sub>Oct 2023</sub> |
-| [A turbulence index independent framework for deriving solar wind speed and coronal electron density](https://www.youtube.com/watch?v=BUyCingJDiM) <sub>Sep 2026</sub> | [OSIRIS-REx: A complete guide to the asteroid-sampling mission](https://jovian-explorer.medium.com/osiris-rex-a-complete-guide-to-the-asteroid-sampling-mission-74331f5997bd) <sub>Sep 2023</sub> |
-<!-- /auto:latest -->
+<sub>🎤 talk · 🖼️ poster · all talks and posters on the [talks page](https://jovian-explorer.github.io/talks.html)</sub>
 
 ## In the media
 
@@ -171,9 +171,19 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
   [Astronomy](https://www.youtube.com/playlist?list=PLeDUJ_o66ZlY) ·
   [Science](https://www.youtube.com/playlist?list=PLId4H9D2tDYU) ·
   [My Research](https://www.youtube.com/playlist?list=PLGZDzv6-DDT4) ·
-  [all videos on the website](https://jovian-explorer.github.io/videos.html)
+  [all videos on the website](https://jovian-explorer.github.io/videos.html), part of [Outreach](https://jovian-explorer.github.io/outreach.html#youtube)
 - ✍️ **[Medium](https://jovian-explorer.github.io/writing.html):** articles on space missions and my papers
 - 📷 **[Photography](https://jovian-explorer.github.io/photography.html)** and 🗺️ **[travel](https://jovian-explorer.github.io/travel.html):** albums and maps from conferences and trips
+
+### Latest videos and articles
+
+<!-- auto:latest -->
+| 📺 Latest videos | ✍️ Latest articles |
+|:--|:--|
+| [Plasma Turbulence in Lunar Environment During Magnetotail Passage: Observations from Chandrayaan-2](https://www.youtube.com/watch?v=0qbrOB-qnnA) <sub>Sep 2026</sub> | [Is it Life, or is it Volcanoes?](https://jovian-explorer.medium.com/is-it-life-or-is-it-volcanoes-315a89fd4154) <sub>Oct 2023</sub> |
+| [A study on the contribution of the interplanetary medium in radio occultation experiments](https://www.youtube.com/watch?v=Ex9r_Qzf1Dc) <sub>Sep 2026</sub> | [India’s Lunar Triumphs and Solar Aspirations](https://jovian-explorer.medium.com/indias-lunar-triumphs-and-solar-aspirations-cf4ba64d957d) <sub>Oct 2023</sub> |
+| [A turbulence index independent framework for deriving solar wind speed and coronal electron density](https://www.youtube.com/watch?v=BUyCingJDiM) <sub>Sep 2026</sub> | [OSIRIS-REx: A complete guide to the asteroid-sampling mission](https://jovian-explorer.medium.com/osiris-rex-a-complete-guide-to-the-asteroid-sampling-mission-74331f5997bd) <sub>Sep 2023</sub> |
+<!-- /auto:latest -->
 
 ---
 
@@ -183,7 +193,8 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
   <a href="https://jovian-explorer.github.io/research.html">Research</a> ·
   <a href="https://jovian-explorer.github.io/publications.html">Publications</a> ·
   <a href="https://jovian-explorer.github.io/software.html">Software</a> ·
-  <a href="https://jovian-explorer.github.io/talks.html">Talks</a>
+  <a href="https://jovian-explorer.github.io/talks.html">Talks</a> ·
+  <a href="https://jovian-explorer.github.io/outreach.html">Outreach</a>
 </p>
 
 <p align="center">
