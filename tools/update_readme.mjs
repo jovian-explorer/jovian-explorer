@@ -116,19 +116,6 @@ blocks.talks = [
     }),
 ].join("\n");
 
-// Paper presentation videos (publications[].video), each with its paper and
-// any conference talk on the same work (conferences[].video).
-const VID = Object.fromEntries(((window.VIDEOS || {}).videos || []).filter((v) => v.id).map((v) => [v.id, v]));
-const shortEvent = (e) => (String(e || "").match(/\(([^)]+)\)\s*$/) || [0, e])[1];
-blocks.presentations = pubs
-  .filter((p) => p.video && !(VID[p.video] || {}).hidden)
-  .map((p) => {
-    const v = VID[p.video] || {};
-    const talks = confs.filter((c) => c.video === p.video).map((c) => ` · ${c.kind.toLowerCase()} at ${esc(shortEvent(c.event))} (${monthYear(c.date)})`).join("");
-    return `- 📺 [${esc(v.title || p.title)}](https://www.youtube.com/watch?v=${p.video}) · paper: [${venue(p.venue)} ${p.year}](${link(p)})${talks}`;
-  })
-  .join("\n");
-
 const videos = ((window.VIDEOS || {}).videos || []).filter((v) => v.id && !v.hidden).sort((a, b) => (a.date < b.date ? 1 : -1)).slice(0, 3);
 const articles = ((window.ARTICLES || {}).items || []).sort((a, b) => (a.date < b.date ? 1 : -1)).slice(0, 3);
 blocks.latest = [
