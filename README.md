@@ -36,7 +36,7 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
     <td align="center" width="16%"><h3>9</h3><sub>h-index</sub></td>
     <td align="center" width="16%"><h3>26</h3><sub>publications</sub></td>
     <td align="center" width="16%"><h3>8</h3><sub>first-author papers</sub></td>
-    <td align="center" width="16%"><h3>15</h3><sub>talks &amp; posters</sub></td>
+    <td align="center" width="16%"><h3>12</h3><sub>talks &amp; posters</sub></td>
     <td align="center" width="16%"><h3>31</h3><sub>outreach videos</sub></td>
   </tr>
 </table>
