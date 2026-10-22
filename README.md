@@ -14,7 +14,7 @@
   <a href="https://www.researchgate.net/profile/Keshav-Aggarwal-4"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-profile-1f4f7a?style=flat-square&logo=researchgate&logoColor=white"></a>
   <br>
   <a href="https://www.linkedin.com/in/dev-aggarwal/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-dev--aggarwal-1f4f7a?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.youtube.com/@keshavagg1098"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-@keshavagg1098-1f4f7a?style=flat-square&logo=youtube&logoColor=white"></a>
+  <a href="https://www.youtube.com/@jovian_explorer"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-@jovian__explorer-1f4f7a?style=flat-square&logo=youtube&logoColor=white"></a>
   <a href="https://jovian-explorer.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/Medium-articles-1f4f7a?style=flat-square&logo=medium&logoColor=white"></a>
   <a href="mailto:keshavagg1098@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-keshavagg1098%40gmail.com-1f4f7a?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
