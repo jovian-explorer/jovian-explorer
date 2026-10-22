@@ -168,7 +168,12 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
 ## Beyond research
 
 - 🔭 **[Outreach](https://jovian-explorer.github.io/outreach.html):** public astronomy events, 31 videos and 12 classroom documents in English and Hindi, made with fellow students at IIT Indore
-- 📺 **[Videos](https://jovian-explorer.github.io/media.html#videos)** and ✍️ **[writing](https://jovian-explorer.github.io/media.html#writing):** short and full-length videos on astronomy, science and my research on the YouTube channel Jovian Explorer, made from public data with sources in each description, and articles on space missions on Medium
+- 📺 **[Videos](https://jovian-explorer.github.io/media.html#videos)** and ✍️ **[writing](https://jovian-explorer.github.io/media.html#writing):** short and full-length videos on astronomy, science and my research on the YouTube channel Jovian Explorer, made from public data with sources in each description, and articles on space missions on Medium. Playlists:
+  [Astronomy](https://www.youtube.com/playlist?list=PLeDUJ_o66ZlY) ·
+  [Science](https://www.youtube.com/playlist?list=PLId4H9D2tDYU) ·
+  [My Research](https://www.youtube.com/playlist?list=PLGZDzv6-DDT4) ·
+  [Surviving Space](https://www.youtube.com/playlist?list=PLbwTHJam1hZ8) ·
+  [Space Race 2.0](https://www.youtube.com/playlist?list=PLLMY_ehOSl00)
 - 📷 **[Photos and travel](https://jovian-explorer.github.io/photography.html):** albums from conferences and trips, night-sky photographs, and maps of the places I have visited
 
 ---
