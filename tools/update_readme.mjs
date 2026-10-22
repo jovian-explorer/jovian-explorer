@@ -116,10 +116,12 @@ blocks.talks = [
     }),
 ].join("\n");
 
-const videos = ((window.VIDEOS || {}).videos || []).filter((v) => v.id && !v.hidden).sort((a, b) => (a.date < b.date ? 1 : -1)).slice(0, 3);
+// Research videos only: those linked to a paper (publications[].video in data.js).
+const paperVideos = new Set((S.publications || []).map((p) => p.video).filter(Boolean));
+const videos = ((window.VIDEOS || {}).videos || []).filter((v) => v.id && !v.hidden && paperVideos.has(v.id) && v.date).sort((a, b) => (a.date < b.date ? 1 : -1)).slice(0, 3);
 const articles = ((window.ARTICLES || {}).items || []).sort((a, b) => (a.date < b.date ? 1 : -1)).slice(0, 3);
 blocks.latest = [
-  "| 📺 Latest videos | ✍️ Latest articles |",
+  "| 📺 Research videos | ✍️ Latest articles |",
   "|:--|:--|",
   ...Array.from({ length: Math.max(videos.length, articles.length) }, (_, i) => {
     const v = videos[i], a = articles[i];

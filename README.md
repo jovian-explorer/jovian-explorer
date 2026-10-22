@@ -152,7 +152,7 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
 ## Latest videos and writing
 
 <!-- auto:latest -->
-| 📺 Latest videos | ✍️ Latest articles |
+| 📺 Research videos | ✍️ Latest articles |
 |:--|:--|
 | [Plasma Turbulence in Lunar Environment During Magnetotail Passage: Observations from Chandrayaan-2](https://www.youtube.com/watch?v=0qbrOB-qnnA) <sub>Sep 2026</sub> | [Is it Life, or is it Volcanoes?](https://jovian-explorer.medium.com/is-it-life-or-is-it-volcanoes-315a89fd4154) <sub>Oct 2023</sub> |
 | [A study on the contribution of the interplanetary medium in radio occultation experiments](https://www.youtube.com/watch?v=Ex9r_Qzf1Dc) <sub>Sep 2026</sub> | [India’s Lunar Triumphs and Solar Aspirations](https://jovian-explorer.medium.com/indias-lunar-triumphs-and-solar-aspirations-cf4ba64d957d) <sub>Oct 2023</sub> |
@@ -168,12 +168,7 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
 ## Beyond research
 
 - 🔭 **[Outreach](https://jovian-explorer.github.io/outreach.html):** public astronomy events, 31 videos and 12 classroom documents in English and Hindi, made with fellow students at IIT Indore
-- 📺 **[Videos](https://jovian-explorer.github.io/media.html#videos)** and ✍️ **[writing](https://jovian-explorer.github.io/media.html#writing):** short and full-length videos on astronomy, science and my research on the YouTube channel Jovian Explorer, made from public data with sources in each description, and articles on space missions on Medium. Playlists:
-  [Astronomy](https://www.youtube.com/playlist?list=PLeDUJ_o66ZlY) ·
-  [Science](https://www.youtube.com/playlist?list=PLId4H9D2tDYU) ·
-  [My Research](https://www.youtube.com/playlist?list=PLGZDzv6-DDT4) ·
-  [Surviving Space](https://www.youtube.com/playlist?list=PLbwTHJam1hZ8) ·
-  [Space Race 2.0](https://www.youtube.com/playlist?list=PLLMY_ehOSl00)
+- 📺 **[YouTube: Jovian Explorer](https://www.youtube.com/@jovian_explorer)** and ✍️ **[writing](https://jovian-explorer.github.io/media.html#writing):** video summaries of my papers, and articles on space missions on Medium
 - 📷 **[Photos and travel](https://jovian-explorer.github.io/photography.html):** albums from conferences and trips, night-sky photographs, and maps of the places I have visited
 
 ---
