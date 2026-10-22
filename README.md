@@ -48,7 +48,7 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
 |:--|:--|:--|
 | 🏅 **Prime Minister's Research Fellowship** | Ministry of Education, Government of India | Jul 2023 |
 | 🏆 **Early Career Researcher Award, best poster** | 6th Indian Planetary Science Conference, IIT Roorkee | Mar 2025 |
-| ✈️ **AGU Student Grant** | AGU Fall Meeting 2025, New Orleans | Dec 2025 |
+| ✈️ **AGU Student Travel Grant** | AGU Fall Meeting 2025, New Orleans | Dec 2025 |
 | 🛰️ **ISpA Affiliate Member** | [Indian Space Association](https://ispa.space/) | Feb 2026 |
 
 ## Research
@@ -58,8 +58,8 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
 | ☀️ | **Solar wind and corona** | Solar-wind speed and coronal density from the spectral broadening of spacecraft radio signals near solar conjunction (MOM S-band, Akatsuki X-band, across solar-activity levels). A turbulence-index-independent framework and a generalised Kolmogorov retrieval. | [ApJ 2025](https://doi.org/10.3847/1538-4357/adb627) · [MNRAS 2025](https://doi.org/10.1093/mnras/staf1305) · [MNRAS 2026](https://doi.org/10.1093/mnras/stag554) · [ASR 2026](https://doi.org/10.1016/j.asr.2026.03.059) |
 | 🌌 | **Interplanetary medium** | Separating the interplanetary contribution from planetary radio-occultation signals using Chandrayaan-2, Chandrayaan-3, Venus Express and Akatsuki data. | [Icarus 2026](https://doi.org/10.1016/j.icarus.2026.117291) |
 | 🌕 | **Lunar plasma environment** | Electron-density turbulence around the Moon from Chandrayaan-2 two-way radio science, comparing the solar wind with the terrestrial magnetotail. | [JGR: Planets 2026](https://doi.org/10.1029/2026JE009957) |
-| 🪐 | **Exoplanet atmospheres** | Member of the JWST Transiting Exoplanet Community ERS team: first JWST spectra of WASP-39b (CO₂, CO, photochemical SO₂), WASP-18b and WASP-43b. | [Nature 2023](https://doi.org/10.1038/s41586-022-05269-w) · [Nature 2023](https://doi.org/10.1038/s41586-023-05902-2) · [Nature 2024](https://doi.org/10.1038/s41586-024-07040-9) · [+6 more](https://jovian-explorer.github.io/publications.html) |
-| 🔭 | **Mission concepts** | Co-author on three white papers for the 2024–2033 Heliophysics Decadal Survey, including the COMPLETE flagship concept. | [BAAS 55(3)](https://jovian-explorer.github.io/publications.html) |
+| 🪐 | **Exoplanet atmospheres** | Member of the JWST Transiting Exoplanet Community ERS team: first JWST spectra of WASP-39b (CO₂, CO, photochemical SO₂), WASP-18b and WASP-43b. | [Nature 2023](https://doi.org/10.1038/s41586-022-05269-w) · [Nature 2023](https://doi.org/10.1038/s41586-023-05902-2) · [Nature 2024](https://doi.org/10.1038/s41586-024-07040-9) · [+6 more](https://jovian-explorer.github.io/publications.html#coauthored-journal) |
+| 🔭 | **Mission concepts** | Co-author on three white papers for the 2024–2033 Heliophysics Decadal Survey, including the COMPLETE flagship concept. | [BAAS 55(3)](https://jovian-explorer.github.io/publications.html#white-papers) |
 
 ### Missions and data
 
@@ -69,7 +69,8 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
 | Akatsuki | JAXA | X-band, one-way | Solar-wind speed across solar-activity levels; interplanetary baseline |
 | Chandrayaan-2 | ISRO | S-band, two-way | Lunar plasma turbulence; lunar occultations |
 | Chandrayaan-3 | ISRO | S-band, two-way | Interplanetary fluctuations outside the lunar ionosphere |
-| Venus Express | ESA | S/X-band, one-way | Interplanetary-only baseline |
+| Venus Express (VeRa) | ESA | S/X-band, one-way | Interplanetary-only reference measurements |
+| JWST | NASA / ESA / CSA | Infrared spectroscopy | Exoplanet transmission and emission spectra |
 
 ## Software
 
@@ -83,18 +84,18 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
       <sub><b>DOI</b> <a href="https://doi.org/10.5281/zenodo.23215291">10.5281/zenodo.23215291</a></sub>
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://github.com/jovian-explorer/COSMIC2-Explorer">COSMIC-2 Explorer</a></h3>
-      <img alt="Public v0.1.0" src="https://img.shields.io/badge/public-v0.1.0-2c5e50?style=flat-square"><br><br>
-      Desktop app for the COSMIC-2 radio occultation profiles published by UCAR CDAAC: finds, downloads, plots and compares them, computes tropopause, boundary-layer and ionosphere diagnostics, and compares them with weather models, radiosondes and other missions. Works offline once the data are downloaded.<br><br>
-      <sub>Python · MIT · Windows, macOS, Linux</sub><br>
-      <sub><b>DOI</b> <a href="https://doi.org/10.5281/zenodo.23329841">10.5281/zenodo.23329841</a></sub>
-    </td>
-    <td width="33%" valign="top">
       <h3><a href="https://github.com/jovian-explorer/HELIOS-L1">HELIOS-L1</a></h3>
       <img alt="Public v0.1.0" src="https://img.shields.io/badge/public-v0.1.0-2c5e50?style=flat-square"><br><br>
       Desktop app for space weather: live solar wind from NOAA's real-time L1 stream and archived NASA, NOAA and GFZ data (WIND, ACE, OMNI since 1963), with published models for storms, the aurora, CME arrival and event analysis.<br><br>
       <sub>Python · MIT · Windows, macOS, Linux</sub><br>
       <sub><b>DOI</b> <a href="https://doi.org/10.5281/zenodo.23322367">10.5281/zenodo.23322367</a></sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/jovian-explorer/COSMIC2-Explorer">COSMIC-2 Explorer</a></h3>
+      <img alt="Public v0.1.0" src="https://img.shields.io/badge/public-v0.1.0-2c5e50?style=flat-square"><br><br>
+      Desktop app for the COSMIC-2 radio occultation profiles published by UCAR CDAAC: finds, downloads, plots and compares them, computes tropopause, boundary-layer and ionosphere diagnostics, and compares them with weather models, radiosondes and other missions. Works offline once the data are downloaded.<br><br>
+      <sub>Python · MIT · Windows, macOS, Linux</sub><br>
+      <sub><b>DOI</b> <a href="https://doi.org/10.5281/zenodo.23329841">10.5281/zenodo.23329841</a></sub>
     </td>
   </tr>
 </table>
@@ -103,7 +104,7 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
 [RO-SPICE](https://github.com/jovian-explorer/RO-SPICE) (radio-occultation geometry with NASA SPICE) ·
 [Akatsuki_open](https://github.com/jovian-explorer/Akatsuki_open) (Akatsuki open radio-science pre-processing) ·
 [Sun](https://github.com/jovian-explorer/Sun) (MOM solar-wind speeds, ApJ 2025) ·
-[CO₂ in WASP-39b](https://github.com/jovian-explorer/Identification-of-carbon-dioxide-in-an-exoplanet-atmosphere) (figures for Nature 2023)
+[India Station Map](https://github.com/jovian-explorer/india-station-map) (Indian state boundaries and observation stations from a CSV file)
 
 **Toolbox**
 
@@ -141,7 +142,7 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
 | Mar 2026 | 🎤 7th Indian Planetary Science Conference (IPSC 2026) | IIT Indore |
 | Feb 2026 | 🎤 National Space Science Symposium (NSSS 2026) | Umiam, Shillong |
 | Jan 2026 | 🖼️ ISRO–ESA Workshop | Thiruvananthapuram |
-| Dec 2025 | 🖼️ AGU Fall Meeting 2025 · *AGU Student Grant* | New Orleans, United States |
+| Dec 2025 | 🖼️ AGU Fall Meeting 2025 · *AGU Student Travel Grant* | New Orleans, United States |
 | Dec 2025 | 🖼️ The Variable Sun | Thiruvananthapuram |
 | Sep 2025 | 🖼️ ASI Symposium 003, Astronomical Society of India | JECRC University, Jaipur |
 <!-- /auto:talks -->
@@ -166,24 +167,15 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
 
 ## Beyond research
 
-- 🔭 **[Outreach](https://jovian-explorer.github.io/outreach.html):** public astronomy events, 31 lab videos and 12 classroom documents in English and Hindi, made with fellow students at IIT Indore
-- 📺 **[YouTube: Jovian Explorer](https://www.youtube.com/@keshavagg1098):** short and full-length videos on astronomy, science and my research, made from public data with sources in each description. Playlists:
-  [Astronomy](https://www.youtube.com/playlist?list=PLeDUJ_o66ZlY) ·
-  [Science](https://www.youtube.com/playlist?list=PLId4H9D2tDYU) ·
-  [My Research](https://www.youtube.com/playlist?list=PLGZDzv6-DDT4) ·
-  [all videos on the website](https://jovian-explorer.github.io/videos.html)
-- ✍️ **[Medium](https://jovian-explorer.github.io/writing.html):** articles on space missions and my papers
-- 📷 **[Photography](https://jovian-explorer.github.io/photography.html)** and 🗺️ **[travel](https://jovian-explorer.github.io/travel.html):** albums and maps from conferences and trips
+- 🔭 **[Outreach](https://jovian-explorer.github.io/outreach.html):** public astronomy events, 31 videos and 12 classroom documents in English and Hindi, made with fellow students at IIT Indore
+- 📺 **[Videos](https://jovian-explorer.github.io/media.html#videos)** and ✍️ **[writing](https://jovian-explorer.github.io/media.html#writing):** short and full-length videos on astronomy, science and my research on the YouTube channel Jovian Explorer, made from public data with sources in each description, and articles on space missions on Medium
+- 📷 **[Photos and travel](https://jovian-explorer.github.io/photography.html):** albums from conferences and trips, night-sky photographs, and maps of the places I have visited
 
 ---
 
 <p align="center">
   <a href="https://jovian-explorer.github.io/"><b>jovian-explorer.github.io</b></a> ·
-  <a href="https://jovian-explorer.github.io/cv.html">CV</a> ·
-  <a href="https://jovian-explorer.github.io/research.html">Research</a> ·
-  <a href="https://jovian-explorer.github.io/publications.html">Publications</a> ·
-  <a href="https://jovian-explorer.github.io/software.html">Software</a> ·
-  <a href="https://jovian-explorer.github.io/talks.html">Talks</a>
+  <a href="https://jovian-explorer.github.io/cv.html">CV</a>
 </p>
 
 <p align="center">
