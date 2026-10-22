@@ -31,7 +31,7 @@ const outreach = await read("outreach.html");
 
 const S = window.SITE;
 const pubs = S.publications || [];
-const confs = S.conferences || [];
+const confs = (S.conferences || []).filter((c) => !c.student);
 
 // Same merge as assets/js/site.js: ORCID works missing from data.js are added.
 const norm = (t) => String(t || "").toLowerCase().replace(/<[^>]+>/g, "").replace(/[^a-z0-9]+/g, "");
@@ -39,7 +39,7 @@ const PUBTYPE = { "journal-article": "journal", "book-chapter": "chapter", "conf
 const TALK = { "conference-poster": "Poster", "conference-abstract": "Talk", "conference-presentation": "Talk", "lecture-speech": "Talk", "conference-output": "Talk" };
 const seen = new Set();
 pubs.forEach((p) => { if (p.doi) seen.add(p.doi.toLowerCase()); if (p.arxiv) seen.add(p.arxiv); seen.add(norm(p.title)); });
-confs.forEach((c) => seen.add("talk:" + norm(c.title)));
+(S.conferences || []).forEach((c) => seen.add("talk:" + norm(c.title)));
 const exclude = new Set((S.excludeWorks || []).map((x) => String(x).toLowerCase()));
 for (const w of (window.WORKS || {}).items || []) {
   if (exclude.has((w.doi || "").toLowerCase()) || exclude.has((w.arxiv || "").toLowerCase())) continue;
