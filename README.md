@@ -101,7 +101,7 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
   <tr>
     <td width="33%" valign="top">
       <h3><a href="https://github.com/jovian-explorer/occulta">occulta</a></h3>
-      <img alt="Public v0.1.0" src="https://img.shields.io/badge/public-v0.1.0-2c5e50?style=flat-square"><br><br>
+      <img alt="Pre-release v0.0.1" src="https://img.shields.io/badge/pre--release-v0.0.1-2c5e50?style=flat-square"><br><br>
       Python package for a blind search of TESS, K2 and Kepler photometry for transiting planets and eclipsing binaries that no catalogue lists: it vets every candidate as a planet and as an eclipsing binary, assigns the eclipses to their star with difference images of the TESS pixels, and compares eclipse timing with Gaia orbits.<br><br>
       <sub>Python · MIT · Windows, macOS, Linux</sub>
     </td>
