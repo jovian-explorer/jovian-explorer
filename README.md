@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://jovian-explorer.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-jovian--explorer.github.io-1f4f7a?style=flat-square&logo=githubpages&logoColor=white"></a>
   <!-- auto:scholar-badge -->
-<a href="https://scholar.google.com/citations?user=KO8MtmEAAAAJ"><img alt="Google Scholar: 2,108 citations" src="https://img.shields.io/badge/Google_Scholar-2%2C108_citations-1f4f7a?style=flat-square&logo=googlescholar&logoColor=white"></a>
+<a href="https://scholar.google.com/citations?user=KO8MtmEAAAAJ"><img alt="Google Scholar: 2,119 citations" src="https://img.shields.io/badge/Google_Scholar-2%2C119_citations-1f4f7a?style=flat-square&logo=googlescholar&logoColor=white"></a>
 <!-- /auto:scholar-badge -->
   <a href="https://orcid.org/0000-0002-7004-8670"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--0002--7004--8670-1f4f7a?style=flat-square&logo=orcid&logoColor=white"></a>
   <a href="https://www.researchgate.net/profile/Keshav-Aggarwal-4"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-profile-1f4f7a?style=flat-square&logo=researchgate&logoColor=white"></a>
@@ -32,7 +32,7 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
 <!-- auto:glance -->
 <table>
   <tr>
-    <td align="center" width="16%"><h3>2,108</h3><sub>citations</sub></td>
+    <td align="center" width="16%"><h3>2,119</h3><sub>citations</sub></td>
     <td align="center" width="16%"><h3>9</h3><sub>h-index</sub></td>
     <td align="center" width="16%"><h3>26</h3><sub>publications</sub></td>
     <td align="center" width="16%"><h3>8</h3><sub>first-author papers</sub></td>
