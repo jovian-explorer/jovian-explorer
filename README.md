@@ -108,8 +108,8 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
     </td>
     <td width="33%" valign="top">
       <h3>corona3d</h3>
-      <img alt="Private v0.0.1" src="https://img.shields.io/badge/private-v0.0.1-8a6a2c?style=flat-square"><br><br>
-      Python package that builds a three-dimensional reconstruction of a coronal mass ejection and the corona around it from public data: the density surface of a PSI MHD model coloured by the Alfvén speed, open, closed and streamer field lines, the GCS shell of the CME, radio sources at their Newkirk heights, and LASCO C2 and STEREO-B COR1 and COR2 images, with every layer switchable.<br><br>
+      <img alt="Private v0.1.0" src="https://img.shields.io/badge/private-v0.1.0-8a6a2c?style=flat-square"><br><br>
+      Python package that builds a three-dimensional reconstruction of a coronal mass ejection and the corona around it from public data: the density surface of a PSI MHD model coloured by the Alfvén speed, open, closed and streamer field lines, the GCS shell of the CME, radio sources at their Newkirk heights, and LASCO C2 and STEREO-B COR1 and COR2 images, with every layer switchable and every panel viewable from any direction.<br><br>
       <sub>Python · MIT · Windows, macOS, Linux</sub><br>
       <sub><b>DOI</b> on public release</sub>
     </td>
