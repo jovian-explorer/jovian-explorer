@@ -77,6 +77,7 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
 <table>
   <tr>
     <td width="33%" valign="top">
+      <img src="https://jovian-explorer.github.io/assets/img/software/veda.png" width="56" alt="veda logo">
       <h3><a href="https://github.com/jovian-explorer/VEDA">VEDA</a></h3>
       <img alt="Public v0.2.0" src="https://img.shields.io/badge/public-v0.2.0-2c5e50?style=flat-square"><br><br>
       Desktop laboratory for planetary atmosphere and ionosphere data: finds the products of NASA, ESA, JAXA and ISRO missions for a planet or moon and a date range, plots them, derives physical parameters, compares observations and computes the observation geometry with SPICE.<br><br>
@@ -84,6 +85,7 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
       <sub><b>DOI</b> <a href="https://doi.org/10.5281/zenodo.23215291">10.5281/zenodo.23215291</a></sub>
     </td>
     <td width="33%" valign="top">
+      <img src="https://jovian-explorer.github.io/assets/img/software/helios-l1.png" width="56" alt="helios-l1 logo">
       <h3><a href="https://github.com/jovian-explorer/HELIOS-L1">HELIOS-L1</a></h3>
       <img alt="Public v0.1.0" src="https://img.shields.io/badge/public-v0.1.0-2c5e50?style=flat-square"><br><br>
       Desktop app for space weather: live solar wind from NOAA's real-time L1 stream and archived NASA, NOAA and GFZ data (WIND, ACE, OMNI since 1963), with published models for storms, the aurora, CME arrival and event analysis.<br><br>
@@ -91,6 +93,7 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
       <sub><b>DOI</b> <a href="https://doi.org/10.5281/zenodo.23322367">10.5281/zenodo.23322367</a></sub>
     </td>
     <td width="33%" valign="top">
+      <img src="https://jovian-explorer.github.io/assets/img/software/cosmic2-explorer.png" width="56" alt="cosmic2-explorer logo">
       <h3><a href="https://github.com/jovian-explorer/COSMIC2-Explorer">COSMIC-2 Explorer</a></h3>
       <img alt="Public v0.1.0" src="https://img.shields.io/badge/public-v0.1.0-2c5e50?style=flat-square"><br><br>
       Desktop app for the COSMIC-2 radio occultation profiles published by UCAR CDAAC: finds, downloads, plots and compares them, computes tropopause, boundary-layer and ionosphere diagnostics, and compares them with weather models, radiosondes and other missions. Works offline once the data are downloaded.<br><br>
@@ -100,18 +103,20 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
   </tr>
   <tr>
     <td width="33%" valign="top">
+      <img src="https://jovian-explorer.github.io/assets/img/software/occulta.png" width="56" alt="occulta logo">
       <h3><a href="https://github.com/jovian-explorer/occulta">occulta</a></h3>
-      <img alt="Pre-release v0.0.1" src="https://img.shields.io/badge/pre--release-v0.0.1-2c5e50?style=flat-square"><br><br>
+      <img alt="Public v0.0.1" src="https://img.shields.io/badge/public-v0.0.1-2c5e50?style=flat-square"><br><br>
       Python package for a blind search of TESS, K2 and Kepler photometry for transiting planets and eclipsing binaries that no catalogue lists: it vets every candidate as a planet and as an eclipsing binary, assigns the eclipses to their star with difference images of the TESS pixels, and compares eclipse timing with Gaia orbits.<br><br>
       <sub>Python · MIT · Windows, macOS, Linux</sub><br>
       <sub><b>DOI</b> <a href="https://doi.org/10.5281/zenodo.23634486">10.5281/zenodo.23634486</a></sub>
     </td>
     <td width="33%" valign="top">
-      <h3>corona3d</h3>
-      <img alt="Private v0.1.0" src="https://img.shields.io/badge/private-v0.1.0-8a6a2c?style=flat-square"><br><br>
-      Python package that builds a three-dimensional reconstruction of a coronal mass ejection and the corona around it from public data: the density surface of a PSI MHD model coloured by the Alfvén speed, open, closed and streamer field lines, the GCS shell of the CME, radio sources at their Newkirk heights, and LASCO C2 and STEREO-B COR1 and COR2 images, with every layer switchable and every panel viewable from any direction.<br><br>
+      <img src="https://jovian-explorer.github.io/assets/img/software/corona3d.png" width="56" alt="corona3d logo">
+      <h3><a href="https://github.com/jovian-explorer/corona3d">corona3d</a></h3>
+      <img alt="Public v0.2.0" src="https://img.shields.io/badge/public-v0.2.0-2c5e50?style=flat-square"><br><br>
+      Python package that builds a three-dimensional reconstruction of a coronal mass ejection, the coronal magnetic field and the radio sources for any event from its time and flare position, using public data only: the PSI MHD corona with its own field-line tracer, the GCS shell fitted to the LASCO and STEREO coronagraph images, and the radio sources measured in Nançay Radioheliograph and OVRO-LWA images, with every layer switchable, viewable from any direction and exportable with its provenance.<br><br>
       <sub>Python · MIT · Windows, macOS, Linux</sub><br>
-      <sub><b>DOI</b> on public release</sub>
+      <sub><b>DOI</b> <a href="https://doi.org/10.5281/zenodo.23801369">10.5281/zenodo.23801369</a></sub>
     </td>
   </tr>
 </table>
