@@ -80,7 +80,7 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
       <img src="https://jovian-explorer.github.io/assets/img/software/veda.png" width="56" alt="veda logo">
       <h3><a href="https://github.com/jovian-explorer/VEDA">VEDA</a></h3>
       <img alt="Public v0.2.0" src="https://img.shields.io/badge/public-v0.2.0-2c5e50?style=flat-square"><br><br>
-      Desktop laboratory for planetary atmosphere and ionosphere data: finds the products of NASA, ESA, JAXA and ISRO missions for a planet or moon and a date range, plots them, derives physical parameters, compares observations and computes the observation geometry with SPICE.<br><br>
+      Desktop laboratory for planetary atmosphere and ionosphere data: finds the products of NASA, ESA, JAXA and ISRO missions for a planet or moon and a date range, plots them, derives physical parameters, compares observations and computes the observation geometry with SPICE. Its data sets include the MRO Mars Climate Sounder profiles, MAVEN accelerometer densities, ROSE electron density profiles and IUVS stellar occultation and periapse limb scans, MRO and Mars Odyssey aerobraking densities, MRO CRISM aerosol profiles, and the Venus Express VeRa and SOIR profiles, and its comparisons group profiles into climatologies and line them up on altitude or pressure.<br><br>
       <sub>Python · MIT · Windows, macOS, Linux</sub><br>
       <sub><b>DOI</b> <a href="https://doi.org/10.5281/zenodo.23215291">10.5281/zenodo.23215291</a></sub>
     </td>
@@ -88,7 +88,7 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
       <img src="https://jovian-explorer.github.io/assets/img/software/helios-l1.png" width="56" alt="helios-l1 logo">
       <h3><a href="https://github.com/jovian-explorer/HELIOS-L1">HELIOS-L1</a></h3>
       <img alt="Public v0.1.0" src="https://img.shields.io/badge/public-v0.1.0-2c5e50?style=flat-square"><br><br>
-      Desktop app for space weather: live solar wind from NOAA's real-time L1 stream and archived NASA, NOAA and GFZ data (WIND, ACE, OMNI since 1963), with published models for storms, the aurora, CME arrival and event analysis.<br><br>
+      Desktop app for space weather: live solar wind from NOAA's real-time L1 stream and archived NASA, NOAA and GFZ data (WIND, ACE, OMNI since 1963), with published models for storms, the aurora, CME arrival and event analysis. It shows NOAA's OVATION Prime nowcast of the visible aurora, replays a storm as it passes up to seven spacecraft (WIND, ACE, DSCOVR, SOHO, STEREO-A, Solar Orbiter and Parker Solar Probe, with a preset for 18–20 January 2026), analyses STEREO-A, Solar Orbiter and Parker Solar Probe data alongside the L1 missions, reads DSCOVR plasma after June 2019 from NOAA's NCEI archive, reproduces published results with its own tools, and saves a bulletin as HTML or PDF.<br><br>
       <sub>Python · MIT · Windows, macOS, Linux</sub><br>
       <sub><b>DOI</b> <a href="https://doi.org/10.5281/zenodo.23322367">10.5281/zenodo.23322367</a></sub>
     </td>
@@ -106,7 +106,7 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
       <img src="https://jovian-explorer.github.io/assets/img/software/occulta.png" width="56" alt="occulta logo">
       <h3><a href="https://github.com/jovian-explorer/occulta">occulta</a></h3>
       <img alt="Public v0.0.1" src="https://img.shields.io/badge/public-v0.0.1-2c5e50?style=flat-square"><br><br>
-      Python package for a blind search of TESS, K2 and Kepler photometry for transiting planets and eclipsing binaries that no catalogue lists: it vets every candidate as a planet and as an eclipsing binary, assigns the eclipses to their star with difference images of the TESS pixels, and compares eclipse timing with Gaia orbits.<br><br>
+      Python package for a blind search of TESS, K2 and Kepler photometry for transiting planets and eclipsing binaries that no catalogue lists: it vets every candidate as a planet and as an eclipsing binary, assigns the eclipses to their star with difference images of the TESS pixels, and compares eclipse timing with Gaia orbits. Optional searches, all off by default, look for free-floating planets as microlensing brightenings, for exomoons in the transit times and durations of vetted planets, and for single transits, aperiodic dippers and disintegrating planets; the public ZTF and TESS-SPOC full-frame-image light curves are optional sources.<br><br>
       <sub>Python · MIT · Windows, macOS, Linux</sub><br>
       <sub><b>DOI</b> <a href="https://doi.org/10.5281/zenodo.23634486">10.5281/zenodo.23634486</a></sub>
     </td>
@@ -114,7 +114,7 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
       <img src="https://jovian-explorer.github.io/assets/img/software/corona3d.png" width="56" alt="corona3d logo">
       <h3><a href="https://github.com/jovian-explorer/corona3d">corona3d</a></h3>
       <img alt="Public v0.2.0" src="https://img.shields.io/badge/public-v0.2.0-2c5e50?style=flat-square"><br><br>
-      Python package that builds a three-dimensional reconstruction of a coronal mass ejection, the coronal magnetic field and the radio sources for any event from its time and flare position, using public data only: the PSI MHD corona with its own field-line tracer, the GCS shell fitted to the LASCO and STEREO coronagraph images, and the radio sources measured in Nançay Radioheliograph and OVRO-LWA images, with every layer switchable, viewable from any direction and exportable with its provenance.<br><br>
+      Python package that builds a three-dimensional reconstruction of a coronal mass ejection, the coronal magnetic field and the radio sources for any event from its time and flare position, using public data only: the PSI MHD corona with its own field-line tracer, the GCS shell fitted to the LASCO and STEREO coronagraph images, and the radio sources measured in Nançay Radioheliograph and OVRO-LWA images, with every layer switchable, viewable from any direction and exportable with its provenance. Version 0.2.0 adds the shock diagnostics (Alfvén, sonic and fast-mode Mach numbers, θ<sub>Bn</sub>, stand-off distance and critical Mach number), a density calibration from the polarised brightness of the coronagraph images, radio sources placed on the model plasma surface with their dynamic spectra, and Solar Orbiter Metis and EUI as an observer. The development version also chooses the views and layout of each figure and animates the reconstruction through an interval as a GIF or MP4.<br><br>
       <sub>Python · MIT · Windows, macOS, Linux</sub><br>
       <sub><b>DOI</b> <a href="https://doi.org/10.5281/zenodo.23801369">10.5281/zenodo.23801369</a></sub>
     </td>
