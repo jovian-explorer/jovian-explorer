@@ -80,7 +80,6 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
       <img src="https://jovian-explorer.github.io/assets/img/software/veda.png" width="56" alt="veda logo">
       <h3><a href="https://github.com/jovian-explorer/VEDA">VEDA</a></h3>
       <img alt="Public v0.2.0" src="https://img.shields.io/badge/public-v0.2.0-2c5e50?style=flat-square"><br><br>
-     <br><br>
       <sub>Python · MIT · Windows, macOS, Linux</sub><br>
       <sub><b>DOI</b> <a href="https://doi.org/10.5281/zenodo.23215291">10.5281/zenodo.23215291</a></sub>
     </td>
@@ -88,7 +87,6 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
       <img src="https://jovian-explorer.github.io/assets/img/software/helios-l1.png" width="56" alt="helios-l1 logo">
       <h3><a href="https://github.com/jovian-explorer/HELIOS-L1">HELIOS-L1</a></h3>
       <img alt="Public v0.1.0" src="https://img.shields.io/badge/public-v0.1.0-2c5e50?style=flat-square"><br><br>
-      <br><br>
       <sub>Python · MIT · Windows, macOS, Linux</sub><br>
       <sub><b>DOI</b> <a href="https://doi.org/10.5281/zenodo.23322367">10.5281/zenodo.23322367</a></sub>
     </td>
@@ -96,7 +94,6 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
       <img src="https://jovian-explorer.github.io/assets/img/software/cosmic2-explorer.png" width="56" alt="cosmic2-explorer logo">
       <h3><a href="https://github.com/jovian-explorer/COSMIC2-Explorer">COSMIC-2 Explorer</a></h3>
       <img alt="Public v0.1.0" src="https://img.shields.io/badge/public-v0.1.0-2c5e50?style=flat-square"><br><br>
-      <br><br>
       <sub>Python · MIT · Windows, macOS, Linux</sub><br>
       <sub><b>DOI</b> <a href="https://doi.org/10.5281/zenodo.23329841">10.5281/zenodo.23329841</a></sub>
     </td>
@@ -106,7 +103,6 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
       <img src="https://jovian-explorer.github.io/assets/img/software/occulta.png" width="56" alt="occulta logo">
       <h3><a href="https://github.com/jovian-explorer/occulta">occulta</a></h3>
       <img alt="Public v0.0.1" src="https://img.shields.io/badge/public-v0.0.1-2c5e50?style=flat-square"><br><br>
-     <br><br>
       <sub>Python · MIT · Windows, macOS, Linux</sub><br>
       <sub><b>DOI</b> <a href="https://doi.org/10.5281/zenodo.23634486">10.5281/zenodo.23634486</a></sub>
     </td>
@@ -114,7 +110,6 @@ Before that I built AI/ML and orbital-mechanics algorithms at ERETS Space London
       <img src="https://jovian-explorer.github.io/assets/img/software/corona3d.png" width="56" alt="corona3d logo">
       <h3><a href="https://github.com/jovian-explorer/corona3d">corona3d</a></h3>
       <img alt="Public v0.2.0" src="https://img.shields.io/badge/public-v0.2.0-2c5e50?style=flat-square"><br><br>
-      <br><br>
       <sub>Python · MIT · Windows, macOS, Linux</sub><br>
       <sub><b>DOI</b> <a href="https://doi.org/10.5281/zenodo.23801369">10.5281/zenodo.23801369</a></sub>
     </td>
